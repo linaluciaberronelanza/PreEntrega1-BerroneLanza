@@ -22,7 +22,6 @@ function si(dinero) {
 
 do {
     let dinero = Number(prompt("¿Cuanto dinero quieres gastar? (Ingresa el monto de dinero)"));
-    let total = 0;
     si(dinero);
 
     console.log(dinero);
